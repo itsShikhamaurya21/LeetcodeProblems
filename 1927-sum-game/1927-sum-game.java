@@ -18,8 +18,8 @@ class Solution {
         }
        } 
        int diff=leftsum-rightsum;
-       int diffq=leftQ-rightQ;
+       int diffq=rightQ-leftQ;
        return Math.abs(diffq) % 2 == 1
-       || diff != -9 * diffq / 2;
+       || diff !=9 * diffq / 2;
     }
 }
