@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -37,5 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
