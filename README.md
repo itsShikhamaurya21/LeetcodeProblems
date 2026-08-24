@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0485-max-consecutive-ones](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
