@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 ## Stack
 |  |
