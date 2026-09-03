@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0485-max-consecutive-ones](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
