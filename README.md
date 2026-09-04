@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
+| [3903-smallest-stable-index-i](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
