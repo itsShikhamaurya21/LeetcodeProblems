@@ -6,7 +6,6 @@ class Solution {
         int min=0;
         int max=0;
         int diff=0;
-        int count=0;
         for(int i=0;i<nums.length;i++){
             max=max(0,i,nums);
             min=min(i,nums.length,nums);
