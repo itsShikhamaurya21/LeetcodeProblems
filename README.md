@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0196-delete-duplicate-emails) |
+| [1517-find-users-with-valid-e-mails](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1517-find-users-with-valid-e-mails) |
 ## Array
 |  |
 | ------- |
