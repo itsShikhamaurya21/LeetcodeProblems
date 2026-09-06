@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
