@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
