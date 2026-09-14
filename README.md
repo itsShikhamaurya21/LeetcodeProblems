@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3870-count-commas-in-range) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
