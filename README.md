@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
