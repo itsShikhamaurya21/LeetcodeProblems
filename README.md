@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
