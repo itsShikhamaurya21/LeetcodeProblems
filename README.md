@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
