@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
