@@ -22,19 +22,27 @@ class Solution {
 
     // return true;
 
-    // approach 
+    // approach -- this approach has O(n2) time complexity
     // convert the string into lowercase
      s=s.toLowerCase();
     //  remove all the space
     s=s.replaceAll("[^a-z0-9]","");
     
-     String rev="";
-     for(int i=s.length()-1;i>=0;i--){
-        rev=rev+s.charAt(i);
-     }
-     if(!rev.equals(s))
-     return false;
-     return true;
+    //  String rev="";
+    //  for(int i=s.length()-1;i>=0;i--){
+    //     rev=rev+s.charAt(i);
+    //  }
+    //  if(!rev.equals(s))
+    //  return false;
+    //  return true;
 
+    int i=0;
+    int j=s.length()-1;
+    while(i<j){
+        if(s.charAt(i)!=s.charAt(j)) return false;
+        i++;
+        j--;
+    }
+    return true;
 }
 }
