@@ -24,9 +24,9 @@ class Solution {
 
     // approach -- this approach has O(n2) time complexity
     // convert the string into lowercase
-     s=s.toLowerCase();
-    //  remove all the space
-    s=s.replaceAll("[^a-z0-9]","");
+    //  s=s.toLowerCase();
+    // //  remove all the space
+    // s=s.replaceAll("[^a-z0-9]","");
     
     //  String rev="";
     //  for(int i=s.length()-1;i>=0;i--){
@@ -36,6 +36,10 @@ class Solution {
     //  return false;
     //  return true;
 
+    // this approach has O(n)  time complexity
+    s=s.toLowerCase();
+    //  remove all the space
+    s=s.replaceAll("[^a-z0-9]","");
     int i=0;
     int j=s.length()-1;
     while(i<j){
