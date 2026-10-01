@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
