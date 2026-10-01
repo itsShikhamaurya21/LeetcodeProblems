@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
