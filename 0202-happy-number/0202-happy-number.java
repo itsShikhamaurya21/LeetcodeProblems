@@ -12,12 +12,14 @@ class Solution {
 
         // Floyd detection algorithm
         int slow=n,fast=n;
-        while(true){
+        while(fast!=1){
             slow=sumofsquares(slow);
-            fast=sumofsquares(sumofsquares(fast));
-            if(fast==1) return true;
-            if(slow==fast) return false;
+            fast=sumofsquares(fast);
+            fast=sumofsquares(fast);
+            
+            if(slow==fast && slow!=1) return false;
         }
+        return true;
     }
     public static int sumofsquares(int n){
         int sum=0;
