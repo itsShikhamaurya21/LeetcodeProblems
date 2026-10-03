@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
 | ------- |
