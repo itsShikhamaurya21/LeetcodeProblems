@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
@@ -208,4 +211,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
