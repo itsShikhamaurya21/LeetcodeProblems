@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
