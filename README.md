@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
