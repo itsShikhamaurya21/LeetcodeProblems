@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
 | ------- |
