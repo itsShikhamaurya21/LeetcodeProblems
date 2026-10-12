@@ -21,13 +21,26 @@ class Solution {
     // Approach
     // 1. sort the array
     // 2. and then check the duplicates 
-    Arrays.sort(nums);
-    for(int i=1;i<nums.length;i++){
-        if( nums[i]==nums[i-1]){
+    // Arrays.sort(nums);
+    // for(int i=1;i<nums.length;i++){
+    //     if( nums[i]==nums[i-1]){
+    //         return nums[i];
+    //     }
+
+    // }
+    // return -1;
+    // here tc--O(n2) and space=O(1)
+
+    // with hashset
+    HashSet<Integer> set = new HashSet<>();
+    for(int i=0;i<nums.length;i++){
+        if(set.contains(nums[i])){
             return nums[i];
         }
-
+        set.add(nums[i]);
     }
     return -1;
+    
+
 }
 }
