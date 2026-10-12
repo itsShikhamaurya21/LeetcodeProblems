@@ -15,5 +15,7 @@ class Solution {
             i++;
         }
         return max/k;
+
+        // time complexity-- O(n)
     }
 }
