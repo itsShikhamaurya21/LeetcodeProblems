@@ -1,10 +1,11 @@
-with duplicates as(
+with ranked as(
     select id,
-    Row_number() over (partition by email Order by id) as row_nums
-    from Person
+    ROW_NUMBER() OVER(PARTITION by email ORDER BY id) as rank_num
+    From Person
 )
-delete from Person
+Delete from Person
 where id in(
-    Select id from duplicates 
-    where row_nums>1
+    Select id 
+    from ranked 
+    where rank_num>1
 );
