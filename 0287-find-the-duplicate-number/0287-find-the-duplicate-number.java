@@ -32,15 +32,33 @@ class Solution {
     // here tc--O(n2) and space=O(1)
 
     // with hashset
-    HashSet<Integer> set = new HashSet<>();
-    for(int i=0;i<nums.length;i++){
-        if(set.contains(nums[i])){
-            return nums[i];
+    // HashSet<Integer> set = new HashSet<>();
+    // for(int i=0;i<nums.length;i++){
+    //     if(set.contains(nums[i])){
+    //         return nums[i];
+    //     }
+    //     set.add(nums[i]);
+    // }
+    // return -1;
+    // here time -- O(n)
+    // and space -- O(n)
+
+    // by using slow and fast rule that is applied only if the cycle exist
+    int slow=nums[0];
+    int fast=nums[0];
+    while(true){
+        slow=nums[slow];
+        fast=nums[fast];
+        fast=nums[fast];
+        if(slow==fast){
+            slow=nums[0];
+            while(slow!=fast){
+                slow=nums[slow];
+                fast=nums[fast];
+            }
+            return slow;
         }
-        set.add(nums[i]);
     }
-    return -1;
-    
 
 }
 }
