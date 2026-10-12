@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0196-delete-duplicate-emails) |
 | [1517-find-users-with-valid-e-mails](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1517-find-users-with-valid-e-mails) |
 ## Array
