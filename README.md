@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1927-sum-game](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/itsShikhamaurya21/LeetcodeProblems/tree/master/3591-check-if-any-element-has-prime-frequency) |
